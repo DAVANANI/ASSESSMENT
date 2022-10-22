@@ -1,0 +1,8 @@
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe.config
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.exe
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\obj\Debug\PokerChallengeDemo.pdb
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.exe
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\bin\Debug\PokerChallengeDemo.pdb
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\bin\Debug\PokerChallengeRef.dll
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\bin\Debug\PokerChallengeRef.pdb
+D:\Roopal\Assessment\Pocker_Example\PokerChallengeDemo\obj\Debug\Pocker_Details_example.csprojResolveAssemblyReference.cache
