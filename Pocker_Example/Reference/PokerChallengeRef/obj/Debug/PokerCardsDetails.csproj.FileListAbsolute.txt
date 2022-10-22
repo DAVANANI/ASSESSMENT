@@ -1,0 +1,5 @@
+D:\Roopal\Assessment\Pocker_Example\Reference\PokerChallengeRef\obj\Debug\PokerCardsDetails.csprojResolveAssemblyReference.cache
+D:\Roopal\Assessment\Pocker_Example\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.dll
+D:\Roopal\Assessment\Pocker_Example\Reference\PokerChallengeRef\bin\Debug\PokerChallengeRef.dll
+D:\Roopal\Assessment\Pocker_Example\Reference\PokerChallengeRef\bin\Debug\PokerChallengeRef.pdb
+D:\Roopal\Assessment\Pocker_Example\Reference\PokerChallengeRef\obj\Debug\PokerChallengeRef.pdb
