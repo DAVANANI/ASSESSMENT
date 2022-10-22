@@ -9,9 +9,7 @@ This Solution implements a library using C# that evaluates the winner among seve
 
 ### Project solution contains: 
 
-1. Demo Application (Console Application) 
-2. Reference (Class Library) 
-3. Unit Test (Unit test) 
+1. Demo Application (Console Application)
 
 ##Object Oriented Programming
 ### Participants
